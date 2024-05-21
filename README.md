@@ -6,6 +6,10 @@ This study employs a dynamic strategy leveraging a quarterly rolling window to e
 
 We established a test set with a rolling window of one quarter to assess the models mentioned. By selecting the top-performing model at each validation point, we have been able to dynamically adjust our strategy based on the most current data. 
 
+### Data Source
+
+We utlized the financial market data on Kaggle for this reinforcement learning algorithm. 
+
 ### Sharpe Ratio Performance
 
 ![Sharpe Ratios of Models](1.png)
