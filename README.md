@@ -8,7 +8,11 @@ We established a test set with a rolling window of one quarter to assess the mod
 
 ### Data Source
 
-We utlized the financial market data on Kaggle for this reinforcement learning algorithm. 
+We utlized the financial market data on Kaggle for this reinforcement learning algorithm. <br> Link: https://www.kaggle.com/datasets/alincijov/trading
+
+References:<br>
+Hongyang Yang, Xiao-Yang Liu, Shan Zhong, and Anwar Walid. 2020. Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy.<br>
+In ICAIF ’20: ACM International Conference on AI in Finance, Oct. 15–16, 2020, Manhattan, NY. ACM, New York, NY, USA.
 
 ### Sharpe Ratio Performance
 
