@@ -12,7 +12,7 @@ We utlized the financial market data on Kaggle for this reinforcement learning a
 
 ### Sharpe Ratio Performance
 
-![Sharpe Ratios of Models](1.png)
+<img src="images/sharpe_ratios.png" alt="Sample Image" width="1000">
 
 *Figure 1: Sharpe ratios of three different reinforcement learning models—A2C, PPO, and DDPG—across various rolling validation periods.*
 
